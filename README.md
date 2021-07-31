@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UCOiiRINZKB7vt6i0_x3JUqQ">YouTube</a> |
   <a href="https://github.com/jnajwhdanbiwduanwdioayuhbou2qgybroq">Github</a>
   <br><br>
-  <img src="https://images-ext-2.discordapp.net/external/VmlRwsT_gaEERVQgLRJyWFhcCH3pmQ4LYF_9w6ekw0Y/https/repository-images.githubusercontent.com/389292471/5ad30dee-c725-4971-a9d5-d6a4e2f147f3">
+  <img src="">
 </p>
 
 #
